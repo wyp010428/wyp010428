@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning ML, DL.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: 2471358240@qq.com
+- 📫 How to reach me: wyp66666@qq.com
 
 <!---
 wyp010428/wyp010428 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
