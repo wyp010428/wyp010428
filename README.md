@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @wyp010428
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning ML, DL.
+- 👋 Hi, I’m @Caesar
+- 👀 I’m interested in coding, fitness...
+- 🌱 I’m currently learning AI, Digital Twin City.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: wyp66666@qq.com
+- 📫 How to reach me: wangyupeng818@gmail.com
 
 <!---
 wyp010428/wyp010428 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
